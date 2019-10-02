@@ -70,3 +70,8 @@ composer update drupal/core webflo/drupal-core-require-dev "symfony/*" --with-de
 ```bash
 composer config platform.php 7.2
 ```
+
+### その他
+
+本プロジェクトは [drupal-composer/drupal-project](https://github.com/drupal-composer/drupal-project) のフォークプロジェクトです。  
+詳細な内容はそちらを参照ください。
